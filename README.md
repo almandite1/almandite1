@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **almandite1/almandite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## Donation
+Donations are also welcome. You can send any amount you wish to the following bitcoin addresses.
+
+BitCoin: `bc1qk4hk26km8jlm8g22rvlgh0dqvv9edunx0t7yma`
